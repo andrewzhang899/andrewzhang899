@@ -5,7 +5,7 @@ import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
 
-const fileURL = "https://andrewzhang.netlify.app/resume.pdf";
+const fileURL = "https://andrewzhang899.netlify.app/resume.pdf";
 
 const Navbar = () => {
   const [active, setActive] = useState("");

@@ -122,7 +122,7 @@ const experiences = [
     company_name: "Myria",
     icon: myria,
     iconBg: "#383E56",
-    date: "Sep 2021 - Apr 2023",
+    date: "Sep 2021 - Jul 2023",
     points: [
       "Designed and structured the NFT market place website, considering architectural principles",
       "Developed a custom L2 Wallet app, integrating it with Metamask, and seamlessly embedded it into the NFT marketplace website",
